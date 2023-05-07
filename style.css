@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital@1&display=swap');
+
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+body{
+    font-family: 'Lato', sans-serif;
+   
+  
+
+}
+
+.wrapper{
+    width: 80vw;
+    height: 50vh;
+    margin: 200px auto;
+    padding: 50px;
+  
+}
+.form-body{
+    background-image: url('bmi.png');
+    background-size: 50%;
+    background-repeat: no-repeat;
+    background-position: right top;
+    
+
+  
+
+}
+
+.info{
+    width: 99%;
+    height: auto;
+    background-color: #fff6ca;
+    color:#222;
+    border-radius: 40px 10px;
+    margin: 50px auto;
+    padding: 50px;
+}
+
+.custom-width{
+    width: 50%;
+}
+
+
